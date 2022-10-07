@@ -1,0 +1,1 @@
+Module 2 of freecodecamp site on Javascript studies on HTML with CSS - creation of a cafe menu and understand principles of linking a HTML website to a CSS
